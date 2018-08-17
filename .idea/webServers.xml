@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="49c625b6-31d0-4a29-b081-31f6e2424e8e" name="wx" url="http://wx.jdyboss.com/">
+        <fileTransfer host="118.24.86.39" port="22" rootFolder="/www/wwwroot/wx.jdyboss.com" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
